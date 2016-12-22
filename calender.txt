@@ -1,0 +1,24 @@
+1;Pulp Fiction;Quentin Tarantino
+2;Pans Labyrinth;Guillermo del Toro
+3;American History X;Tony Kaye
+4;Edward Scissorhands;Tim Burton
+5;V for Vendetta;James McTeigue
+6;Harold and Maude;Hal Ashby
+7;Matrix; Lana and Andrew Wachowski
+8;Kill Bill;Quentin Tarantino
+9;Primer;Shane Carruth
+10;Memento;Christopher Nolan
+11;Shutter Island;Martin Scorsese
+12;Trainspotting;Danny Boyle
+13;The silence of the lambs;Jonathan Demme
+14;Star Wars IV;George Lucas
+15;Harry Potter the prisonor of Azkaban;Alfonso Cuaron
+16;The great Gatsby;Baz Luhrmann
+17;Spaceballs;Mel Brooks
+18;Gran Torino;Clint Eastwood
+19;Clockwork orange;Stanley Kubrik
+20;Drive;Nicolas Winding Refn
+21;Donnie Darko;Richard Kelly
+22;Jackie Brown;Quentin Tarantino
+23;Inception;Christopher Nolan
+24;The Godfather;Francis Ford Coppola
